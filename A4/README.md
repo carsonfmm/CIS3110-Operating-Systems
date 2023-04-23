@@ -1,5 +1,4 @@
 Name: Carson Mifsud
-Student ID: 1089936
 Date: 2021-04-02
 Description: This program generates reports to stdout about the file system that displays
 information about the files and directories that appear in a directory that is provided to the
