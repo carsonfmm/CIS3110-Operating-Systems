@@ -1,4 +1,4 @@
-// Name: Carson Mifsud ( 1089936 )
+// Name: Carson Mifsud
 // Date: 2021-02-05
 /* Description: Simple UNIX shell program. Handles basic UNIX shell commands in the foreground and background.
  * Handles one level of pipe as well as redirected output to a file and redirected input from a file.
